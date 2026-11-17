@@ -1,0 +1,6 @@
+{
+  "name": "OrganLink DBMS",
+  "description": "Multi-portal Organ Donation & Transplant Registry Database Management System with User, Hospital, and Administrator interfaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
